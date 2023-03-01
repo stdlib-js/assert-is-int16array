@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-int16array"
-click B href "https://github.com/stdlib-js/assert-is-int16array/tree/main"
-click C href "https://github.com/stdlib-js/assert-is-int16array/tree/production"
-click D href "https://github.com/stdlib-js/assert-is-int16array/tree/esm"
-click E href "https://github.com/stdlib-js/assert-is-int16array/tree/deno"
-click F href "https://github.com/stdlib-js/assert-is-int16array/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-int16array"
+%% click B href "https://github.com/stdlib-js/assert-is-int16array/tree/main"
+%% click C href "https://github.com/stdlib-js/assert-is-int16array/tree/production"
+%% click D href "https://github.com/stdlib-js/assert-is-int16array/tree/esm"
+%% click E href "https://github.com/stdlib-js/assert-is-int16array/tree/deno"
+%% click F href "https://github.com/stdlib-js/assert-is-int16array/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-int16array
