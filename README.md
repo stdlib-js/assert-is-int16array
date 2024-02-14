@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isInt16Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int16array@deno/mod.js';
+import isInt16Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int16array@v0.2.0-deno/mod.js';
 ```
 
 #### isInt16Array( value )
@@ -79,7 +79,7 @@ import Int32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@deno/m
 import Uint32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint32@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import isInt16Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int16array@deno/mod.js';
+import isInt16Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int16array@v0.2.0-deno/mod.js';
 
 var bool = isInt16Array( new Int16Array( 10 ) );
 // returns true
