@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isInt16Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int16array@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-int16array/tags). For example,
+
+```javascript
 import isInt16Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int16array@v0.2.1-deno/mod.js';
 ```
 
@@ -79,7 +84,7 @@ import Int32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@deno/m
 import Uint32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint32@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import isInt16Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int16array@v0.2.1-deno/mod.js';
+import isInt16Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int16array@deno/mod.js';
 
 var bool = isInt16Array( new Int16Array( 10 ) );
 // returns true
